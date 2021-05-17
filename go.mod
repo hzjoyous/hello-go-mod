@@ -1,3 +1,3 @@
-module github.com/hzjoyous/hello-go-mod/v4
+module github.com/hzjoyous/hello-go-mod
 
 go 1.16
